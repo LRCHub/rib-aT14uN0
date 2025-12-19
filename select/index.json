@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛包ダンスホール",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-19T04:28:04.422127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛包ダンスホール",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/01_愛包ダンスホール_HIMEHINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛包ダンスホール",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_愛包ダンスホール_HIMEHINA.txt"
+    }
+  ]
+}
